@@ -1,2 +1,2 @@
 # momentum_stock
-based on MOEX stock data
+Search of the Grail based on MOEX stock data
